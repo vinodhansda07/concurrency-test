@@ -1,0 +1,5 @@
+.DS_Store
+
+# Generated test artifacts
+reports/*
+!reports/.gitkeep
